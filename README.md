@@ -29,6 +29,10 @@ Persönliche Lovedoll Sammlung von **Christian Grigoriadis (Zagathou)** – ausg
 - `robots.txt` erlaubt alle Crawler (inkl. KI-Crawler), `sitemap.xml` vorhanden
 - `<meta name="rating" content="adult">` kennzeichnet die Seite als Inhalt für Erwachsene
 
+## Weitere Lovedoll Seiten
+
+- [MARY SUNDAY MORNING (LOVEDOLL)](https://zagathou.github.io/mary/) – Faktenseite zu allen 9 Mary-Versionen von Firefly Doll
+
 ## Technik
 
 Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa (Überschriften, 22px) und Nunito (Text, 18px) über Google Fonts. Farben und Rahmen wie auf [FREYNA.ORG](https://freyna.org/). Gehostet mit GitHub Pages.
