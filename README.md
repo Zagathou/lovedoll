@@ -25,17 +25,17 @@ Persönliche Lovedoll Sammlung von **Christian Grigoriadis (Zagathou)** – ausg
 
 - Semantisches HTML (`main`, `article`, `section`, `h1`–`h3`, Tabellen), alle Inhalte als Text im DOM
 - Strukturierte Daten als JSON-LD (`CollectionPage` mit `ItemList`)
-- [`llms.txt`](https://zagathou.github.io/lovedoll/llms.txt): kompletter Seiteninhalt als reiner Text
+- [`LLMS.TXT`](https://zagathou.github.io/lovedoll/llms.txt): kompletter Seiteninhalt als reiner Text
 - `robots.txt` erlaubt alle Crawler (inkl. KI-Crawler), `sitemap.xml` vorhanden
 - `<meta name="rating" content="adult">` kennzeichnet die Seite als Inhalt für Erwachsene
 
 ## Technik
 
-Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa (Überschriften, 22px) und Nunito (Text, 18px) über Google Fonts. Farben und Rahmen wie auf [freyna.org](https://freyna.org/). Gehostet mit GitHub Pages.
+Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa (Überschriften, 22px) und Nunito (Text, 18px) über Google Fonts. Farben und Rahmen wie auf [FREYNA.ORG](https://freyna.org/). Gehostet mit GitHub Pages.
 
 ## Kontakt
 
 - Name: Christian Grigoriadis (Künstlername: Zagathou)
-- E-Mail: [xelotath@outlook.de](mailto:xelotath@outlook.de)
+- E-Mail: [XELOTATH@OUTLOOK.DE](mailto:xelotath@outlook.de)
 - Session-ID: `055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173`
-- About: [zagathou.github.io/zagathou](https://zagathou.github.io/zagathou/)
+- About: [ZAGATHOU.GITHUB.IO/ZAGATHOU](https://zagathou.github.io/zagathou/)
