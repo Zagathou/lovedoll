@@ -42,4 +42,4 @@ Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** 
 - Name: Christian Grigoriadis (Künstlername: Zagathou)
 - E-Mail: [XELOTATH@OUTLOOK.DE](mailto:xelotath@outlook.de)
 - Session-ID: `055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173`
-- About: [ZAGATHOU.GITHUB.IO/ZAGATHOU](https://zagathou.github.io/zagathou/)
+- About: [zagathou.github.io/zagathou](https://zagathou.github.io/zagathou/)
